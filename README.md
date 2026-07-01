@@ -7,7 +7,7 @@ transcripciones a Google ni a nadie fuera de tu Railway).
 
 ## Deploy en un clic
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/TU_USUARIO/eros-sentiment)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/leon2995/eros-sentiment)
 
 Reemplaza `TU_USUARIO/eros-sentiment` en el enlace de arriba por tu repo real.
 Al hacer clic, Railway clona el repo, detecta el Dockerfile y despliega solo.
